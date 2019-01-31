@@ -1,5 +1,5 @@
 # fdcheck
-Demonstration of file handle issues with xonsh + redo
+Demonstration of file handle issues with `xonsh` + `redo`
 
 Clone this repository onto Ubuntu 18.04
 
