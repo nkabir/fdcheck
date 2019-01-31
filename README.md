@@ -3,7 +3,7 @@ Demonstration of file handle issues with xonsh + redo
 
 Clone this repository onto Ubuntu 18.04
 
-Install `make`.
+Install `make` then run
 
 ```
 $ make all
